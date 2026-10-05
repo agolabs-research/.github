@@ -1,4 +1,4 @@
-# 👋 Welcome to agolabs-research
+# Welcome to agolabs-research
 
 ### 🔬 Research areas & topics
 
