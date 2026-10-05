@@ -1,5 +1,3 @@
-# Welcome to agolabs-research
-
 ### 🔬 Research areas & topics
 
 - radiation therapy physics, dosimetry & treatment planning
