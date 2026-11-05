@@ -1,11 +1,14 @@
-### 🔬 Research areas & topics
+### Agolabs-research
+agolabs-research is an initiative founded by Stefano Agostinelli as part of research activities in medical physics and radiation oncology.
+
+### Research areas & topics
 
 - radiation therapy physics, dosimetry & treatment planning
 - data analysis & mathematical modeling
 
 ### 📂 Featured projects
 
-- **[BreastWatch]**: a Varian Eclipse ESAPI script for examining external beam breast treatment plans.
+- **[BreastWatch]**: a Varian Eclipse ESAPI script for protocol-based breast radiotherapy plan evaluation and quality assurance.
 
 ---
 
